@@ -1,4 +1,3 @@
-# sqli_challenge_elevator
 package test;
 
 import static org.junit.Assert.assertEquals;
